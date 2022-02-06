@@ -36,12 +36,14 @@ explained below.
 
 =================================================================================================================================================================================
 
-Encryption 
+Encryption :
+
 The first letter of the plaintext, P is paired with A, the first letter of the key. So use row P and column A of the Vigenère square. Similarly, for the second letter of the plaintext Y, the second letter of the key B is considered.So use row Y and column B of the Vigenère square. The rest of the plaintext is enciphered in a similar fashion. 
 
 =================================================================================================================================================================================
 
-Decryption
+Decryption :
+
 Decryption is performed by going to the row in the table corresponding to the key, finding the position of the ciphertext letter in this row, and then using the column’s label as the plaintext.
 
 =================================================================================================================================================================================
