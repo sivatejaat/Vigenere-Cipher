@@ -42,7 +42,7 @@ The first letter of the plaintext, P is paired with A, the first letter of the k
 
 =================================================================================================================================================================================
 
-Decryption :
+## Decryption :
 
 Decryption is performed by going to the row in the table corresponding to the key, finding the position of the ciphertext letter in this row, and then using the column’s label as the plaintext.
 
