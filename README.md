@@ -1,5 +1,5 @@
 > Vigenere-Cipher
-##Encoding and Decoding messages with Vigenere Cipher
+## Encoding and Decoding messages with Vigenere Cipher
 
 
 In this python algorithm, we are shifting the characters of the message using the key provided to encrypt and decrypt messages.
