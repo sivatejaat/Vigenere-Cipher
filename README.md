@@ -22,7 +22,7 @@ The alphabet used at each point depends on a repeating keyword.
 
 =================================================================================================================================================================================
 
-### Example: 
+## Example: 
 
 Input : Plaintext :   PYTHON
              Keyword :  ABC
